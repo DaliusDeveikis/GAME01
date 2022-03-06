@@ -20,7 +20,6 @@ const elements = {
 };
 
 let secundes = 0;
-let minute = 1;
 let interval;
 let count = 0;
 
